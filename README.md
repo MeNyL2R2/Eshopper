@@ -4,6 +4,6 @@ Sitio WEB punto de Venta de Ropa
 Creado por: Jander Mannuel Peña Saracho
 Fecha: 28 de octubre 2024
 
-Proyecto Final del submodulo 
+Proyecto Final del submódulo 
 
-3ro Programacion Vespertino
+3ro Programación Vespertino
