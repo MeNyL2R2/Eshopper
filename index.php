@@ -238,7 +238,7 @@
 					<div class="col-sm-3">
 						<div class="address">
 							<img src="images/home/map.png" alt="" />
-							<p>Durango, Dgo. </p>
+							<p>Durango, Dgo.GGGG </p>
 						</div>
 					</div>
 				</div>
