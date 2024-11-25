@@ -1,9 +1,10 @@
 # Eshopper
-Sitio WEB punto de Venta de Ropa
 
-Creado por: Jander Mannuel Peña Saracho
-Fecha: 28 de octubre 2024
+Sitio WEB de Punto de Venta de Ropa
 
-Proyecto Final del submódulo 
+Creado por: Jose Alejandro Cisneros
+Fecha: 28 de Octubre 2024
 
-3ro Programación Vespertino
+Proyecto Final de Submodulo
+
+3o de programacion Vesp
