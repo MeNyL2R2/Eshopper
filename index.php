@@ -60,8 +60,7 @@
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
 								<li><a href="#"><i class="fa fa-phone"></i> +52 618 201 1727</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> Peñiñicasp
-								@gmail.com</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> Peñiñicasp@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
