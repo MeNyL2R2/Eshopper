@@ -1,1 +1,7 @@
- Lentes,180
+ Blusa,100
+ Calcetines,80
+ Calcetines,80
+ Blusa,100
+ Blusa,100
+ Blusa,100
+ Blusa,100
