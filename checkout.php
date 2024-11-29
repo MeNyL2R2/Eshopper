@@ -183,11 +183,12 @@
 						</tr>
 					</thead>
 					<tbody>
-											<?php 
+			<?php
+			$total = 0;							
    if(file_exists('carritodecompras.txt')){
       $content = trim(file_get_contents('carritodecompras.txt'), PHP_EOL);
       $lineas = explode(PHP_EOL, $content);
-      $total = 0;
+      
       foreach($lineas as $linea){
          list($productoE, $precioE) = explode(',', $linea);
 ?>
@@ -239,7 +240,7 @@
 									</tr>
 									<tr>
 										<td>Total</td>
-										<td><span><?php echo "$ " . $total +($total * .16); ?></span></td>
+										<td><span><?php echo "$ " . $total + ($total * .16); ?></span></td>
 									</tr>
 								</table>
 							</td>
@@ -255,7 +256,6 @@
 						<label><input type="checkbox"> Paypal</label>
 					</span>
 					<a class="btn btn-primary" href="fpdf/ticket.php" target="_blank">Pagar</a>
-
 				</div>
 		</div>
 	</section> <!--/#cart_items-->
